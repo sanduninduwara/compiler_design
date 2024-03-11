@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-
+//        test lexer
         System.out.println("Hello world!");
         String st="String a = hgh {fafa  jj} \n" +
                 "if ";
